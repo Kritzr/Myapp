@@ -98,4 +98,7 @@ Understanding activity lifecycle behavior is fundamental for:
 ---
 
 Built as a learning and experimentation project.
+
+
+---
 Medium article link: https://medium.com/@kritstudy15/activity-and-activity-lifecycles-in-android-5c0e8b747847
